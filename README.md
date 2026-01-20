@@ -160,7 +160,7 @@ Hospital-ER-Dashboard-PowerBI/
 ```
 
 ## ⭐ Acknowledgment
-Inspired by the **Data Tutorials** YouTube channel and created for learning and portfolio demonstra
+Inspired by the **Data Tutorials** YouTube channel and created for learning and portfolio demonstration.
 
 ## 📬 Connect with me 
 👩‍💻 **Created by:** Ramsha Arshad 
@@ -170,3 +170,4 @@ Inspired by the **Data Tutorials** YouTube channel and created for learning and 
 ✉️ email: ramsha_arshad467@hotmail.com
 
 ⭐ *If you find this project helpful, feel free to star the repository!*
+
